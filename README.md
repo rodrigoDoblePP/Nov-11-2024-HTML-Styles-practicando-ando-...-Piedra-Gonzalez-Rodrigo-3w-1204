@@ -50,5 +50,39 @@ Codigo 8:
 Ejecución:
 ![image](https://github.com/user-attachments/assets/62ab413a-54ed-4b44-bb91-767e066faba4)
 
+Codigo 9:
+![image](https://github.com/user-attachments/assets/325637e9-087b-4ecb-9c9d-6e0482603f41)
 
+Ejecución:
+![image](https://github.com/user-attachments/assets/e11a12f0-318d-4d27-95f6-d98fc6f0fab9)
+
+Codigo 10:
+![image](https://github.com/user-attachments/assets/f76cc0ac-1f8f-4c3c-9645-04db544385c8)
+
+Ejecución:
+![image](https://github.com/user-attachments/assets/1601ad8c-24d6-4e35-8f56-55366a7fcfe5)
+
+Codigo 11:
+![image](https://github.com/user-attachments/assets/c145d154-b071-4d5c-8cb2-ee2a4f80e17a)
+
+Ejecución:
+![image](https://github.com/user-attachments/assets/383db5ba-5aef-49d6-98e3-bc5cb4574e9e)
+
+Codigo 12:
+![image](https://github.com/user-attachments/assets/e940e3f2-a7c9-4206-8e30-f84256dede5b)
+
+Ejecución:
+![image](https://github.com/user-attachments/assets/84ee7a9d-c934-43ca-aab5-cfcac6a55107)
+
+Codigo 13:
+![image](https://github.com/user-attachments/assets/c8771fe6-eb73-4793-87be-f3e8a7123bfb)
+
+Ejecución:
+![image](https://github.com/user-attachments/assets/eff88ef8-ee63-4963-8f3b-83f07b8815bb)
+
+Codigo 14:
+![image](https://github.com/user-attachments/assets/cb7662e0-eb1d-405e-8e58-f221954e6e4e)
+
+Ejecución:
+![image](https://github.com/user-attachments/assets/22d6797a-d778-45de-85d8-c1a3235fc79d)
 
